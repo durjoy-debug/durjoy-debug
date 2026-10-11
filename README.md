@@ -1,7 +1,7 @@
 Hi, it's Durjoy 👋
 
 I am a software engineering  student with a strong interest in Data Science and Analytics. 
-I am currently building my foundational skills in Python, SQL,C,C++,JAVASCRIPT,LINUX and statistics to analyze data and solve real-world problems.
+I am currently building my foundational skills in Python, SQL, C, C++, JavaScript, Linux and statistics to analyze data and solve real-world problems.
 
 ---
 
